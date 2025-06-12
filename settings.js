@@ -12,12 +12,12 @@ import moment from 'moment-timezone'
 global.botNumber = ''
 
 global.owner = [
-  ['50493732693', '♡ Wirk ♡', true],
-  ['51921826291', 'Maycol', true]
+  ['50493732693', 'Harold', true],
+  ['51921826291', '💖💝 Y⃟o⃟ S⃟o⃟y⃟ Y⃟o⃟ 💝 💖', true]
 ]
 
 global.mods = []
-global.suittag = ['50493732693']
+global.suittag = ['573133374132']
 global.prems = []
 
 global.libreria = 'Baileys'
